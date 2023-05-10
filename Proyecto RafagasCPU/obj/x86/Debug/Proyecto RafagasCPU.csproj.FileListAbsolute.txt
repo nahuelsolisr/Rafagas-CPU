@@ -1,0 +1,36 @@
+C:\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\bin\Debug\Proyecto RafagasCPU.exe
+C:\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\bin\Debug\Proyecto RafagasCPU.pdb
+C:\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.MenuProyecto.resources
+C:\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.Properties.Resources.resources
+C:\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto RafagasCPU.csproj.GenerateResource.Cache
+C:\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto RafagasCPU.exe
+C:\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto RafagasCPU.pdb
+C:\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.FrmFCFS.resources
+C:\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto RafagasCPU.csprojResolveAssemblyReference.cache
+C:\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.FrmSJF.resources
+C:\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.FrmPrioridad.resources
+C:\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.FrmRRQ.resources
+C:\Users\imnothuman\Desktop\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto RafagasCPU.exe
+C:\Users\imnothuman\Desktop\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto RafagasCPU.pdb
+C:\Users\imnothuman\Desktop\Proyecto RafagasCPU\Proyecto RafagasCPU\bin\Debug\Proyecto RafagasCPU.exe
+C:\Users\imnothuman\Desktop\Proyecto RafagasCPU\Proyecto RafagasCPU\bin\Debug\Proyecto RafagasCPU.pdb
+C:\Users\imnothuman\Desktop\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto RafagasCPU.csprojResolveAssemblyReference.cache
+C:\Users\imnothuman\Desktop\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.FrmFCFS.resources
+C:\Users\imnothuman\Desktop\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.FrmPrioridad.resources
+C:\Users\imnothuman\Desktop\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.FrmRRQ.resources
+C:\Users\imnothuman\Desktop\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.FrmSJF.resources
+C:\Users\imnothuman\Desktop\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.MenuProyecto.resources
+C:\Users\imnothuman\Desktop\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.Properties.Resources.resources
+C:\Users\imnothuman\Desktop\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto RafagasCPU.csproj.GenerateResource.Cache
+E:\Rodri\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto RafagasCPU.exe
+E:\Rodri\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto RafagasCPU.pdb
+E:\Rodri\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\bin\Debug\Proyecto RafagasCPU.exe
+E:\Rodri\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\bin\Debug\Proyecto RafagasCPU.pdb
+E:\Rodri\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto RafagasCPU.csprojResolveAssemblyReference.cache
+E:\Rodri\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.FrmFCFS.resources
+E:\Rodri\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.FrmPrioridad.resources
+E:\Rodri\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.FrmRRQ.resources
+E:\Rodri\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.FrmSJF.resources
+E:\Rodri\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.MenuProyecto.resources
+E:\Rodri\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto_RafagasCPU.Properties.Resources.resources
+E:\Rodri\POO\Proyecto RafagasCPU\Proyecto RafagasCPU\obj\x86\Debug\Proyecto RafagasCPU.csproj.GenerateResource.Cache
